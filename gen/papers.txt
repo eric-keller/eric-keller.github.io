@@ -34,7 +34,7 @@ papers/2017/sdwan-sds17-slides.pdf
 Hey Network, Can You Understand Me? 
 Azzam Alsudais, Eric Keller 
 IEEE Workshop on Software-Driven Flexible and Agile Networking (SWFAN), May, 2017. 
-papers/2017/HeyNet_SWFAN2017
+papers/2017/HeyNet_SWFAN2017.pdf
 -
 -
   
