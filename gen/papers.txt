@@ -1,3 +1,11 @@
+2018
+(poster) Machine Learning-Based Fingerprinting of Network Traffic Using Programmable Forwarding Engines
+Greg Cusack, Oliver Michel, Eric Keller
+Network and Distributed System Security Symposium (NDSS).  February, 2018. (won best technical poster)
+-
+papers/2018/Fingerprinting-network-traffic-NDSS-Poster-2018.pdf
+-
+
 2017 
 Building a Security OS With Software Defined Infrastructure
 Guofei Gu, Hongxin Hu, Eric Keller, Zhiqiang Lin, Donald E. Porter
