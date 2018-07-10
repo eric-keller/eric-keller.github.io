@@ -43,7 +43,7 @@ Turboflow: information rich flow record generation on commodity switches
 John Sonchack, Adam J. Aviv, Eric Keller, and Jonathan M. Smith
 Thirteenth EuroSys Conference (EuroSys '18), April, 2018. (won best student paper)
 papers/2018/turboflow_eurosys18.pdf
--
+papers/2018/turboflow_eurosys18_slides.pdf
 https://youtu.be/95BpLpW5WoQ?t=39m18s
 
 2018
