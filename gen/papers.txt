@@ -1,3 +1,59 @@
+2018 
+(presentation) Packet-Level Network Analytics without Compromises
+Oliver Michel (work covers collaboration with Eric Keller, John Sonchack, Adam J. Aviv, and Jonathan M. Smith)
+73rd North American Network Operators Group Conference (NANOG 73), July 2018
+-
+papers/2018/jetstream_and_startflow_nanog73.pdf
+https://youtu.be/0rm-XQME7e4?t=5h53m2s
+
+2018
+Scaling Hardware Accelerated Network Monitoring to Concurrent and Dynamic Queries With *Flow
+John Sonchack, Oliver Michel, Adam J. Aviv, Eric Keller, Jonathan M. Smith
+USENIX Annual Technical Conference (ATC), July, 2018 
+papers/2018/starflow_USENIX_ATC2018.pdf
+-
+-
+  
+2018  
+Packet-Level Analytics in Software without Compromises
+Oliver Michel, John Sonchack, Eric Keller, Jonathan M. Smith
+USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), July 2018  
+papers/2018/jetstream_hotcloud18.pdf
+papers/2018/jetstream_hotcloud18_slides.pdf 
+-
+  
+2018
+NodeFinder: Scalable Search over Highly Dynamic Geo-distributed State
+Azzam Alsudais, Zhe Huang, Bharath Balasubramanian, Shankaranarayanan Puzhavakath Narayanan, Eric Keller, Kaustubh Joshi
+USENIX Workshop on Hot Topics in Cloud Computing (HotCloud), July 2018  
+papers/2018/nodefinder_hotcloud18.pdf
+papers/2018/nodefinder_hotcloud18_slides.pdf 
+-
+
+2018
+Making Serverless Computing More Serverless
+Zaid Al-Ali, Sepideh Goodarzy, Ethan Hunter, Sangtae Ha, Richard Han, Eric Keller, Eric Rozner
+International Workshop on Serverless Computing (WoSC), July, 2018
+papers/2018/serverless_wosc18.pdf
+papers/2018/serverless_wosc18-slides.pdf
+-
+
+2018
+Turboflow: information rich flow record generation on commodity switches
+John Sonchack, Adam J. Aviv, Eric Keller, and Jonathan M. Smith
+Thirteenth EuroSys Conference (EuroSys '18), April, 2018. (won best student paper)
+papers/2018/turboflow_eurosys18.pdf
+-
+https://youtu.be/95BpLpW5WoQ?t=39m18s
+
+2018
+Machine Learning-Based Detection of Ransomware Using SDN
+Greg Cusack, Oliver Michel, Eric Keller. 
+ACM International Workshop on Security in Software Defined Networks & Network Function Virtualization (SDN-NFV Sec).  March, 2018 
+papers/2018/ransomware_SDN_NFV_Security_2018.pdf
+papers/2018/ransomware_SDN_NFV_Security_2018_slides.pdf
+-
+
 2018
 (poster) Machine Learning-Based Fingerprinting of Network Traffic Using Programmable Forwarding Engines
 Greg Cusack, Oliver Michel, Eric Keller
