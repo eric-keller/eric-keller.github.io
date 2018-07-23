@@ -50,7 +50,7 @@ https://youtu.be/95BpLpW5WoQ?t=39m18s
 (poster) Scalable Hardware-Accelerated Network Analytics
 Oliver Michel, John Sonchack, Adam J. Aviv, Eric Keller
 USENIX Symposium on Networked Systems Design and Implementation (NSDI).  April, 2018 
-papers/2018/jetstream_poster_nsdi18-abstract
+papers/2018/jetstream_poster_nsdi18-abstract.pdf
 papers/2018/jetstream_poster_nsdi18-poster.pdf
 -
 
