@@ -46,6 +46,14 @@ papers/2018/serverless_wosc18.pdf
 papers/2018/serverless_wosc18-slides.pdf
 -
 
+2018 
+Elasticizing Linux via Joint Disaggregation of Memory and Computation 
+Ehab Ababneh, Zaid Al-Ali, Sangtae Ha, Richard Han, Eric Keller
+Tech Report, arXiv:1806.00885 [cs.DC], June 2018
+https://arxiv.org/pdf/1806.00885.pdf
+-
+-
+
 2018
 Turboflow: information rich flow record generation on commodity switches
 John Sonchack, Adam J. Aviv, Eric Keller, and Jonathan M. Smith
