@@ -1,9 +1,33 @@
 2019
+Towards Evaluation of NIDSs in Adversarial Setting
+Mohammad Hashemi, Greg Cusack, Eric Keller
+3rd ACM CoNEXT Workshop on Big DAta, Machine Learning and Artificial Intelligence for Data Communication Networks (Big-DAMA), Dec, 2019. 
+papers/2019/adversarial_NIDS_BigDAMA2019.pdf
+papers/2019/adversarial_NIDS_BigDAMA2019_slides.pptx
+-
+
+2019
+(poster) Stateless TCP
+Marcelo Abranches, Eric Keller
+The 15th International Conference on emerging Networking EXperiments and Technologies (CoNEXT), Dec, 2019.  
+papers/2019/stateless_TCP_conext2019_ext_abstract.pdf
+papers/2019/stateless_TCP_conext2019_poster.pdf
+-
+
+2019
+(poster) Efficient Microservices with Elastic Containers
+Greg Cusack, Maziyar Nazari, Sepideh Goodarzy, Prerit Oberai, Eric Rozner, Eric Keller
+The 15th International Conference on emerging Networking EXperiments and Technologies (CoNEXT), Dec, 2019. 
+papers/2019/elastic_containers_conext2019_ext_abstract.pdf
+papers/2019/elastic_containers_conext2019_poster.png
+-
+
+2019
 FOCUS: Scalable Search Over Highly Dynamic Geo-distributed State
 Azzam Alsudais, Mohammad Hashemi, Zhe Huang, Bharath Balasubramanian, Shankaranarayanan Puzhavakath Narayanan, Eric Keller, and Kaustubh Joshi
 IEEE International Conference on Distributed Computing Systems (ICDCS), July, 2019. (25%) 
 papers/2019/focus_icdcs2019.pdf
--
+papers/2019/focus_icdcs2019_slides.pdf
 -
 
 2019
@@ -19,7 +43,7 @@ Network Defragmentation in Virtualized Data Centers
 Oliver Michel, Eric Keller, Fernando Ramos
 Sixth IEEE International Conference on Software Defined Systems (SDS), June, 2019. 
 papers/2019/dcdefrag_sds2019.pdf
--
+papers/2019/dcdefrag_sds2019_slides.pptx
 -
 
 2019
@@ -27,7 +51,7 @@ PIQ: Persistent Interactive Queries for Network Analytics
 Oliver Michel, John Sonchack, Eric Keller, Jonathan M. Smith
 ACM Workshop on Security in Software Defined Networks & Network Function Virtualization (SDN-NFV Sec), March, 2019.
 papers/2019/piq-sdnnfvsec2019.pdf
--
+papers/2019/piq-sdnnfvsec2019_slides.pptx
 -
 
 2019
@@ -194,8 +218,8 @@ papers/2017/turboflow_nsdi_2017_poster.pdf
 (poster) Colocation in Stateless Network Functions
 Anurag Dubey, Murad Kablan, Eric Keller
 USENIX Symposium on Networked Systems Design and Implementation (NSDI), March 2017
-anurag_stateless_colocation_nsdi2017_abstract.pdf
-anurag_stateless_colocation_nsdi2017_poster.pdf
+papers/2017/anurag_stateless_colocation_nsdi2017_abstract.pdf
+papers/2017/anurag_stateless_colocation_nsdi2017_poster.pdf
 -
 
 2017 
