@@ -43,7 +43,7 @@ Network Defragmentation in Virtualized Data Centers
 Oliver Michel, Eric Keller, Fernando Ramos
 Sixth IEEE International Conference on Software Defined Systems (SDS), June, 2019. 
 papers/2019/dcdefrag_sds2019.pdf
-papers/2019/dcdefrag_sds2019_slides.pptx
+papers/2019/dcdefrag_sds2019_slides.pdf
 -
 
 2019
