@@ -35,7 +35,7 @@ Shimmy: Shared Memory Channels for High Performance Inter-Container Communicatio
 Marcelo Abranches, Sepideh Goodarzy, Maziyar Nazari, Shivakant Mishra, Eric Keller
 USENIX Workshop on Hot Topics in Edge Computing (HotEdge), July, 2019. (22/39 = 56%)
 papers/2019/shimmy_hotedge2019.pdf
--
+papers/2019/shimmy_hotedge2019_slides.pdf
 -
 
 2019
