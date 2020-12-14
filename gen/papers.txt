@@ -1,3 +1,43 @@
+2020
+Resource Management in Cloud Computing Using Machine Learning: A Survey
+IEEE International Conference On Machine Learning And Applications.  Dec., 2020. 
+Sepideh Goodarzy, Maziyar Nazari, Richard Han, Eric Keller, Eric Rozner
+papers/2020/ResourceManagementWithML_IEEE_ICMLA_2020.pdf
+papers/2020/ResourceManagementWithML_IEEE_ICMLA_2020_slides.pptx
+papers/2020/ResourceManagementWithML_IEEE_ICMLA_2020_video.mp4
+
+2020
+General Domain Adaptation Through Proportional Progressive Pseudo Labeling
+Mohammad J. Hashemi, Eric Keller 
+IEEE International Conference on Big Data (BigData), Dec. 2020 (83reg,88short/535=31%)
+papers/2020/PPPL_ieee_bigdata2020.pdf
+papers/2020/PPPL_ieee_bigdata2020_slides.pdf
+-
+
+2020
+FluidMem: Full Flexible and Fast Memory Disaggregation for the Cloud
+Blake Caldwell, Youngbin Im, Sepideh Goodarzy, Sangtae Ha, Richard Han, Eric Keller, Eric Rozner
+IEEE International Conference on Distributed Computing Systems (ICDCS), Nov. 2020. (104/584=18%)
+papers/2020/FluidMem_ICDCS2020.pdf
+papers/2020/FluidMem_ICDCS2020_slides.pptx
+https://www.youtube.com/watch?v=N1WSx8CrYeM
+
+2020
+A Userspace Transport Stack Doesn’t Have to Mean Losing Linux Processing
+Marcelo Abranches, Eric Keller 
+IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN 2020), Nov. 2020.
+papers/2020/HybridNetworkStack_ieee_nfvsdn2020.pdf
+papers/2020/HybridNetworkStack_ieee_nfvsdn2020_slides.pdf
+-
+
+2020
+Enhancing Robustness Against Adversarial Examples in Network Intrusion Detection Systems
+Mohammad J. Hashemi, Eric Keller 
+IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN 2020), Nov. 2020.
+papers/2020/RePO_ieee_nfvsdn2020.pdf
+papers/2020/RePO_ieee_nfvsdn2020_slides.pptx
+-
+
 2019
 Towards Evaluation of NIDSs in Adversarial Setting
 Mohammad Hashemi, Greg Cusack, Eric Keller
