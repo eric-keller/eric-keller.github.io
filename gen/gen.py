@@ -64,7 +64,7 @@ def main():
      allentries[yr] = []
      
   for i in range(0, len(lines), 8):
-    print(i)  
+    # print(i)  
     year = lines[i].rstrip()
     entry = {}
     entry["title"] = lines[i+1].rstrip()
