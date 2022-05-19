@@ -1,3 +1,59 @@
+2021
+Optimizing and Extending Serverless Platforms: A Survey
+Maziyar Nazari, Sepideh Goodarzy, Shivakant Mishra, Eric Rozner, Eric Keller 
+International Conference on Software Defined Systems (SDS). December 6-9, 2021
+papers/2021/Serverless_optimization_survey_SDS2021.pdf
+-
+-
+
+2021
+Efficient Network Monitoring Applications in the Kernel with eBPF and XDP
+Marcelo Abranches, Oliver Michel, Eric Keller, Stefan Schmid
+IEEE Conference on Network Functions Virtualization and Software-Defined Networking (IEEE NFV-SDN 2021), Nov. 2021. (Best Paper)
+papers/2021/netmon-ebpf-xdp-nfvsdn21.pdf
+-
+-
+
+2021
+SmartOS: towards automated learning and user-adaptive resource allocation in operating systems
+ACM SIGOPS Asia-Pacific Workshop on Systems (APSys), Aug 2021.
+Sepideh Goodarzy, Maziyar Nazari, Richard Han, Eric Keller, Eric Rozner
+papers/2021/smartos_APsys_2021.pdf
+-
+-
+
+2021
+(Poster) Federating Trust: Network Orchestration for Cross-boundary Zero Trust.
+Karl Olson, Eric Keller. 
+In ACM SIGCOMM (Poster), Aug 2021.
+papers/2021/Federating_Trust_Poster_SIGCOMM21.pdf
+-
+-
+
+2021
+Infinity: A Scalable Infrastructure for In-Network Applications
+Marcelo Abranches, Karl Olson, Eric Keller
+IFIP/IEEE FlexNGIA workshop (co-located with IFIP/IEEE International Symposium on Integrated Network Management (IM)), May 2021
+papers/2021/infinity_flexngia_2021.pdf
+-
+-
+
+2021
+StepNet: A Compositional Framework with Reduced Querying for Homing Complex Network Services
+Azzam Alsudais A, Shankar P Narayanan, Bharath Balasubramanian, Zhe Huang , Eric Keller 
+IFIP/IEEE International Symposium on Integrated Network Management (IM), May 2021
+papers/2021/stepnet_im_2021.pdf
+-
+-
+
+2021
+Software Packet-Level Network Analytics at Cloud Scale
+Oliver Michel, John Sonchack, Greg Cusack, Maziyar Nazari, Eric Keller, Jonathan M Smith
+IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT 18(1):597-610. Mar 2021
+papers/2021/jetstream_tnsm_2021.pdf
+-
+-
+
 2020
 Resource Management in Cloud Computing Using Machine Learning: A Survey
 IEEE International Conference On Machine Learning And Applications.  Dec., 2020. 
