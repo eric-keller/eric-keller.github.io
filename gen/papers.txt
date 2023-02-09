@@ -3,7 +3,7 @@ Getting back what was lost in the era of high-speed software packet processing
 Marcelo Abranches, Oliver Michel, Eric Keller
 ACM Workshop on Hot Topics in Networks (HotNets), Nov. 2022.
 papers/2022/TNA_hotnets22.pdf
--
+papers/2022/TNA_hotnets22_slides.pdf
 https://youtu.be/kW_7O3cmpIg?t=2726
 
 2022
@@ -19,7 +19,7 @@ Escra: Event-driven, Sub-second Container Resource Allocation
 Greg Cusack, Maziyar Nazari, Sepideh Goodarzy, Erika Hunhoff, Prerit Oberai, Eric Keller, Eric Rozner, and Rick Han
 IEEE International Conference on Distributed Computing Systems (ICDCS), July 2022.
 papers/2022/Escra_ICDCS_2022.pdf 
--
+papers/2022/Escra_ICDCS_2022_slides.pdf 
 -
 
 2021
