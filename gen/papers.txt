@@ -1,3 +1,43 @@
+2024
+LinuxFP: Transparently Accelerating Linux Networking 
+M. Abranches, E. Hunhoff, R. Eswara, O. Michel, and E. Keller.
+In IEEE International Conference on Distributed Computing Systems (ICDCS), 2024
+papers/2024/linuxfp_icdcs24.pdf
+-
+-
+
+2023
+Doomed to Repeat with IPv6? Characterization of NAT-centric Security in SOHO Routers
+Karl Olson, Jack Wampler, Eric Keller
+ACM Computing Surveys, Volume 55, Issue 14s, July 2023
+papers/2023/ipv6-NAT-csur2023.pdf
+-
+-
+
+2023
+Doomed to Repeat with IPv6? CAn Operating System for Disaggregation with Coherence
+Erika Hunhoff, Gerd Zellweger, Eric Keller
+(poster)USENIX Symposium on Operating Systems Design and Implementation (OSDI),  June 2023
+-
+papers/2023/dinos-osdi2023_poster.pdf
+-
+
+2023
+Doomed to Repeat with IPv6? CEnabling Security Research Through Efficient Partial Deployment Topology Configuration and Validation
+Bashayer Alharbi, Karl Olson, Eric Keller
+IEEE International Workshop on Computer and Networking Experimental Research using Testbeds (CNERT), May 2023
+papers/2023/rpki-sim-cnert2023.pdf
+-
+-
+
+2023
+Doomed to Repeat with IPv6? CCapturing and Predicting User Frustration to Support a Smart Operating System
+Sepideh Goodarzy, Eric Keller, Maziyar Nazari, Eric Rozner, Richard Han, Mark Dras, Young Choon Lee, Deborah Richards
+Companion Proceedings of the 28th ACM International Conference on Intelligent User Interfaces (IUI), March 2023.
+papers/2023/user-frustration-iui2023.pdf
+-
+-
+
 2022
 Getting back what was lost in the era of high-speed software packet processing
 Marcelo Abranches, Oliver Michel, Eric Keller
