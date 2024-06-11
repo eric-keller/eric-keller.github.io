@@ -93,12 +93,12 @@
         <div class="col-md-6 about-content">
           <p>I am an Associate Professor in the ECEE Department at the University of Colorado, and co-founder and CTO of <a href="http://www.stateless.net">Stateless</a>. At the beginning of the Fall 2021 semester, I returned from a 2 year leave from CU, but I still actively participate in the management of Stateless (as allowed under policy at CU).  I am actively looking for PhD students to join my group. My research interests are elaborated below, but in general, my students are interested in systems programming.  Entrepreneurial interest is a bonus -- I believe systems research and entrepreneurship go hand-in-hand, and find it a great avenue for students to pursue.</p>
           <p>I received my Ph.D. in 2011 from the Electrical Engineering department at Princeton University advised by Jennifer Rexford in the Computer Science department. I was supported by an Intel Ph.D. Fellowship. After Princeton, I spent a year as a post-doc in the Computer and Information Science department at the University of Pennsylvania, working with Jonathan Smith. </p>
-          <p><a href="EricKeller_Research_Statement_2018.pdf">
+          <p><a href="EricKeller_ResearchStatement2024.pdf">
                 <i class="fa fa-fw fa-file"></i>
-              </a> Research Statement (2018)</p>
-          <p><a href="EricKellerCV_8_2108-ann_reorg.pdf">
+              </a> Research Statement (2024)</p>
+          <p><a href="EricKellerCV_06_2024-ann-by-year.pdf">
                 <i class="fa fa-fw fa-file"></i>
-              </a>CV (2018)</p>
+              </a>CV (2024)</p>
           <ul class="contact-info">
             <li><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> eric.keller@colorado.edu</li>
             <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> ECOT 351</li>  
@@ -128,7 +128,7 @@
             </li>
 -->
             <li class="list-inline-item">
-              <a href="EricKellerCV_8_2108-ann_reorg.pdf">
+              <a href="EricKellerCV_06_2024-ann-by-year.pdf">
                 <i class="fa fa-fw fa-file-text" aria-hidden="true"></i>
               </a>                              
             </li>
@@ -229,7 +229,7 @@
           <a href="https://www.stateless.net"><img class="img-fluid" src="img/stateless-logo-blacktext.png" alt="logo of Stateless"></a>
           <p><strong>Stateless -</strong>  Stateless was founded in 2016 with the mission of making even the most sophisticated and dynamic networks dead simple to manage.  After years working together, Murad Kablan and I formed the company as a spin-off of our research at CU (see our NSDI 2017 paper).  Our technology addresses the root of the problem which prevents networks from achieving true agility -- state.  Find an overview of the company on our <a href="https://www.stateless.net">website</a>.</a></p>
   
-          <p><strong>Status: <span class="enterpren-active">Active.  Raised $24.9M in VC funding from Foundry Group (led Series B), Drive Capital (led Series A), and Speed Invest (led Seed), and $1.7M in grants from the NSF (SBIR) and State of Colorado (OEDIT AIA) </span></strong></p>               
+          <p><strong>Status: <span class="enterpren-active">Active.  Raised $20M+ in VC funding from Foundry Group, Drive Capital, and Speed Invest, and $1.7M in grants from the NSF (SBIR) and State of Colorado (OEDIT AIA) </span></strong></p>               
         </div>          
       </div>
 
@@ -384,6 +384,14 @@
         <p><a href="https://shirinebadi.github.io/">Website</a></p>
       </div> 
 
+
+
+      <div class="col-md-4 col-sm-6 team-section ">
+        <img src="img/giulio-headshot.png" class="img-fluid team-image" alt="placeholder">
+        <h3>Giulio Sidoretti</h3>
+        <h4>PhD (Visiting from Univ. of Rome Tor Vergata</h4> 
+        <p><a href="https://scholar.google.com/citations?user=cP6ilOUAAAAJ&hl=it">Website</a></p>
+      </div> 
 
 
 <!--
@@ -570,6 +578,92 @@ Neural Networks</a>.
     <!-- ACTIVE FUNDING ROWS START -->
 
 
+
+    <div class="row">    
+      <div class="col-lg-7 col-md-10 mx-auto">
+
+        <div class="funding-item">
+          <div class="funding-image-container">
+            <a href="https://nsf.gov"><img src="img/nsf-logo.png" class="img-fluid" alt="logo of NSF"></a>
+          </div>
+          <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241818"><h4>CNS Core: Small: Transparent Network Acceleration</h4></a>
+          <p><strong>Role:</strong> PI </p>
+          <p><strong>Dates:</strong> 2023-2026</p>
+          <p><strong>Award:</strong> $604,728 (total)</p>
+          <p><strong>Collaborators:</strong> Tamara Lehman</p> 
+          <p class="funding-expand-button-container">
+            <button type="button" data-toggle="collapse" data-target="#collapse-tna" aria-expanded="false" aria-controls="collapse-tna">
+              Read more <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+          </p>
+          <div class="collapse" id="collapse-tna">
+            <div class="card card-body">
+              <p>
+              With the increase in connected devices comes an increase in network traffic. Applications that we use every day, such as video conferencing, each need to have traffic processed to secure and optimize the application. Current network infrastructure is showing signs that in the near future it won't be able to keep up with the growing demand or increased needs, such as having higher definition video calls with more participants and imperceptible delays in the communication. While some solutions have been proposed to help solve this problem, they do so at the cost of compatibility, which would require rewriting a large body of software that has been developed and tested over the course of over a decade. This proposal introduces a new way of thinking about the way network traffic is handled that will enable both forward and backwards compatibility with modern software while meeting the needs of applications.
+             </p>
+              <p>               
+              In particular, this proposal introduces Transparent Network Acceleration (TNA), which is a novel architecture that decomposes Linux network functionality into fast-path and slow-path functions with explicitly optimized execution environments for each. TNA dynamically and automatically builds a minimal fast path that is instantiated and adjusted at run-time, leading to a transparently accelerated networking stack that fully retains the Linux networking interfaces. Two core mechanisms are introduced. First, to create a highly efficient fast path, TNA automatically and dynamically instantiates only the part of the network stack that is used. New techniques are introduced to introspect the Linux kernel, build a dependency graph of functions, and assemble and deploy an optimal fast path. Second, it targets two fast-path execution environments from a single source code description of modules: (i) the eXpress Data Path (XDP), for in-kernel processing, and (ii) a field programmable gate array (FPGA) based SmartNIC, for hardware accelerated processing. As part of these targets, the design of modules, the compilation to hardware or software, and synchronizing the state represent a novel and complete design flow. In order to demonstrate the effectiveness of these two core mechanisms, we complete the project with a case study of automatically accelerating a selective forwarding unit (SFU) video conferencing network function deployed with considerations such as firewalling and container networking.              
+              </p>
+  
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+
+    <div class="row">    
+      <div class="col-lg-7 col-md-10 mx-auto">
+
+        <div class="funding-item">
+          <div class="funding-image-container">
+            <a href="https://nsf.gov"><img src="img/nsf-logo.png" class="img-fluid" alt="logo of NSF"></a>
+          </div>
+          <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326835"><h4>NSF Converence Accelerator Track G: 5G Hidden Operations through Securing Traffic (GHOST) Phase 2</h4></a>
+          <p><strong>Role:</strong> co-PI </p>
+          <p><strong>Dates:</strong> 2023-2025</p>
+          <p><strong>Award:</strong> $4,983,234 (total)</p>
+          <p><strong>Collaborators:</strong> Keith Gremban (PI), Alexandra Siegel, Tamara Lehman, Salvador D'Itri</p> 
+          <p class="funding-expand-button-container">
+            <button type="button" data-toggle="collapse" data-target="#collapse-ghost" aria-expanded="false" aria-controls="collapse-ghost">
+              Read more <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </button>
+          </p>
+          <div class="collapse" id="collapse-ghost">
+            <div class="card card-body">
+              <p>
+               The proliferation of 5G networks around the world presents an attractive opportunity for U.S. government organizations, nongovernmental humanitarian aid organizations, and private sector enterprises to eliminate the costs of installing and maintaining an alternate communications infrastructure by making use of indigenous 5G networks. However, in many areas of the world, 5G networks are deployed and operated by organizations that are untrusted and potentially hostile to the U.S. In these environments, new security technologies are needed to secure operations. While 5G encrypts data packets and subscriber IDs, analysis of network activity can reveal detailed information about individuals and groups. For example, pattern-of-life analysis can be used to identify and track users. Similarly, traffic analysis can reveal details of an organization?s structure and operations. The 5G Hidden Operations through Securing Traffic (GHOST) project provides four additional layers of security to protect against these threats. First, GHOST protects individuals by swapping subscriber and device IDs, along with usage patterns, or personas. Second, GHOST prevents traffic analysis by introducing ghost users and ghost traffic into the network to obscure real activity. Third, the GHOST project further frustrates traffic analysis by injecting ?false flag? traffic that models real events and operations. Finally, GHOST secures devices at the hardware level by locating GHOST software inside Trusted Execution Environments (TEEs). The GHOST technology will enable organizations to securely operate over foreign 5G networks, regardless of the politics of the network operators.              </p>
+              <p>
+              
+              GHOST addresses threats that cannot be countered by traditional cyber security solutions. The GHOST project will demonstrate an integrated solution on a real 5G network and evaluate GHOST effectiveness in multiple operational scenarios. The GHOST project will yield four major intellectual benefits to the research and operational communities. 
+              (i) First, the GHOST project will deliver technology to anonymize or disguise end-user identities and their association with locations, and communications endpoints. End-user identities will be protected by dynamically allocating software defined credentials and associated software defined personas. Association with locations are protected by correlating movement history with compromising patterns of movement. Communications connections are protected by peer-to-peer anonymization.
+              (ii) Second, the GHOST project will deliver technology to overlay normal network activity with ghost activity to obfuscate traffic analysis and hide regular patterns of activity or changes in activity.
+              (iii) Third, the GHOST project will deliver technology to model, generate, and inject ?false flag? traffic into the network to make it appear to a network analyst that a real event is occurring at a particular location.
+              (iv) Fourth, the GHOST project will deliver technology that will protect end-user devices and non-indigenous networking equipment from penetration and compromise through the use of TEEs. The idea behind a TEE is that no software, privileged or not, should be able to access or modify protected data. TEEs enable the process of attestation of both the hardware and the software. The GHOST software will run inside the TEE to be able to attest to the security of the protocol and protect it in case of capture. 
+              </p>
+              <p>
+			  GHOST technology will benefit end-users of any untrusted network, not just untrusted 5G networks. The primary criteria for success of the GHOST project will be:
+             (i) Prevention of identification and tracking of individuals by a network operator.
+             (ii) Inability of a network analyst to determine regular activity patterns, or significant changes in activity.
+             (iii) Mis-leading a network analyst by injection of ?false flag? activity.
+             (iv) GHOST software deployment in TEEs with no observable degradation in device performance.
+              </p>
+  
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+
+
+<!--    
+
+
     <div class="row">    
       <div class="col-lg-7 col-md-10 mx-auto">
 
@@ -648,7 +742,6 @@ Neural Networks</a>.
     </div>
 
 
-<!--    
     
     <div class="row">    
       <div class="col-lg-7 col-md-10 mx-auto">
@@ -788,6 +881,46 @@ Neural Networks</a>.
       </div>
     </div>
 
+
+
+      <div class="row">
+
+      <div class="col-lg-7 col-md-10 mx-auto funding-past-item">
+        <div class="row">
+            <a href="https://nsf.gov"><img src="img/nsf-logo.png" class="img-fluid" alt="logo of NSF"></a>
+          </div>
+          <div class="col-xs-9 funding-past-item-description">
+
+
+          <h3><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226426"><h4>NSF Convergence Accelerator Track G: 5G Hidden Operations through Securing Traffic (GHOST)</a></h3>
+          <p><strong>Role:</strong> co-PI </p>
+          <p><strong>Dates:</strong> 2022-2024</p>
+          <p><strong>Award:</strong> $749,186 (total)</p>
+          <p><strong>Collaborators:</strong> Keith Gremban (PI), Alexandra Siegel, Tamara Lehman, Salvador D'Itri</p> 
+          </div>
+        </div>
+      </div>
+      </div>
+
+
+
+
+      <div class="row">
+
+      <div class="col-lg-7 col-md-10 mx-auto funding-past-item">
+        <div class="row">
+            <a href="https://nsf.gov"><img src="img/nsf-logo.png" class="img-fluid" alt="logo of NSF"></a>
+          </div>
+          <div class="col-xs-9 funding-past-item-description">
+
+          <h3><a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1652698"><h4>CAREER: Stateless Network Functions: Building a Better Network Through Disaggregation</a></h3>
+          <p><strong>Role:</strong> PI (sole)</p>
+          <p><strong>Dates:</strong> 2017-2023</p>
+          <p><strong>Award:</strong> $627,999</p>
+          </div>
+        </div>
+      </div>
+      </div>
 
 
       <div class="row">
