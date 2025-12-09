@@ -1,9 +1,49 @@
+2026
+Optimizing Machine Learning Inference Serving Systems: A Survey
+Shirin Ebadi, Eric Keller
+IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ICDSA), Feb, 2026
+-
+-
+-
+
+2026
+Container Data Item: An Abstract Datatype for Efficient Container-based Edge Computing
+Md Rezwanur Rahman, Shirin Ebadi, Adarsh Srinivasan, Varsha Natarajan, Tarun Annapareddy, Eric Keller and Shivakant Mishra
+IEEE International Conference on Computing, Networking and Communications (ICNC), Feb. 2026
+-
+-
+-
+
+2025
+THORN-ML: Transparent Hardware Offloaded Resilient Networks for RDMA based Distributed ML Workloads
+Maziyar Nazari, Daniel Noland, Giulio Sidoretti, Erika Hunhoff, Tamara Silbergleit Lehman,  Eric Keller
+ACM Symposium on Cloud Computing (SoCC), Nov. 2025
+papers/2025/THORN_SoCC_2025.pdf
+papers/2025/THORN-SoCC-2025-slides.pptx
+-
+
+2025
+DND-Db: A Democratized Network Data Database for Tailored Routing and Security Campaigns
+Karl Olson, Bashayer Alharbi, Gregory Cusack, Eric Keller
+IEEE Network Operations and Management Symposium (NOMS), May, 2025.
+papers/2025/DND_DB-NOMS-2025.pdf
+papers/2025/DND_DB-NOMS-2025-slides.pdf
+-
+
+2025
+Efficiency, Expressivity, and Extensibility in a Close-to-Metal NPU Programming Interface
+Erika Hunhoff, Joseph Melber, Kristof Denolf, Andra Bisca, Samuel Bayliss, Stephen Neuendorffer, Jeff Fifield, Jack Lo, Pranathi Vasireddy, Phil James-Roxby, Eric Keller
+IEEE 33rd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), 2025 
+papers/2025/iron_fccm_2025.pdf
+papers/2025/iron_fccm_2025-slides.pptx
+-
+
 2024
 LinuxFP: Transparently Accelerating Linux Networking 
 M. Abranches, E. Hunhoff, R. Eswara, O. Michel, and E. Keller.
-In IEEE International Conference on Distributed Computing Systems (ICDCS), 2024
+In IEEE International Conference on Distributed Computing Systems (ICDCS), 2024 (distinguished paper award)
 papers/2024/linuxfp_icdcs24.pdf
--
+papers/2024/linuxfp_icdcs24_slides.pdf
 -
 
 2023
